@@ -1,0 +1,3 @@
+emulator -avd myEmulator
+flutter emulators --launch myEmulator
+>> flutter run
